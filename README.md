@@ -18,6 +18,10 @@ Open `index.html` in a modern browser. For a local web server, use any static se
 
 Import this folder as a static project or deploy it with the Vercel CLI. No build command is required; set the output directory to `.`. `vercel.json` includes a catch-all rewrite so hash routes continue to serve the prototype entry page.
 
+## Install on a phone
+
+Deploy over HTTPS (the Vercel URL works), then open the site in the phone browser. On Android/Chrome, choose **Install app** or **Add to Home screen** from the browser menu. On iPhone, use **Share → Add to Home Screen** in Safari. The app shell and interface assets are cached for basic offline reopening; product photos and Google Fonts still need an internet connection.
+
 ## Prototype scope
 
 This is a front-end presentation prototype. It uses browser-local sample data, simulated order state changes, and illustrative delivery maps. Authentication, cross-device synchronization, real payment processing, SMS, and production dispatch integrations require a backend and service credentials. Product photos and Google Fonts load from external CDNs.
