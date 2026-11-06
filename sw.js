@@ -1,4 +1,4 @@
-const CACHE_NAME = 'gdfa-shell-v1';
+const CACHE_NAME = 'gdfa-shell-v2';
 const APP_SHELL = [
   './',
   './index.html',

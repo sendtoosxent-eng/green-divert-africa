@@ -7,7 +7,7 @@
 @media(max-width:760px){
   .farmer-mobile-home .topbar{display:none}
   .farmer-home-page{padding:0 0 28px;background:#fff}
-  .farmer-mobile-head{display:block;background:#08a936;color:#fff;padding:calc(19px + env(safe-area-inset-top)) 20px 26px}
+  .farmer-mobile-head{display:block;background:#188347;color:#fff;padding:calc(19px + env(safe-area-inset-top)) 20px 26px}
   .farmer-greeting-row{display:flex;align-items:center;gap:12px;min-height:55px}
   .farmer-head-avatar{width:48px;height:48px;border:2px solid #ffffffa8;background:#e8f4e8;font-size:27px}
   .farmer-greeting-copy{flex:1;text-align:center;display:grid;gap:5px}
@@ -78,7 +78,7 @@ svg.symbol{font-family:inherit;width:1.18em;height:1.18em;stroke:currentColor;fi
 svg.symbol path,svg.symbol circle,svg.symbol rect{vector-effect:non-scaling-stroke}
 .brand-mark svg.symbol{width:22px;height:22px}
 .icon-btn svg.symbol,.side-link svg.symbol{width:20px;height:20px}
-.farmer-mobile-head{background:#08a936}
+.farmer-mobile-head{background:#188347}
 .farmer-promo{background:linear-gradient(115deg,var(--green),#11783d)}
 .mobile-categories button>span{background:var(--mint);color:var(--green)}
 .mobile-categories button>span svg.symbol{width:26px;height:26px}
