@@ -5,6 +5,8 @@
 .farmer-mobile-head,.farmer-mobile-content{display:none}
 .home-desktop{display:block}
 @media(max-width:760px){
+  body:has(.farmer-mobile-home){background:#08a936}
+  .farmer-mobile-home{background:#08a936}
   .farmer-mobile-home .topbar{display:none}
   .farmer-home-page{padding:0 0 28px;background:#fff}
   .farmer-mobile-head{display:block;background:#08a936;color:#fff;padding:calc(19px + env(safe-area-inset-top)) 20px 26px}
