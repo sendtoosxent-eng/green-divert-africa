@@ -1,6 +1,6 @@
-# Green Divert for Africa — clickable prototype
+# ECO MARKET CONNECT — clickable prototype
 
-A responsive, static HTML prototype for the farmer marketplace and Green Divert operations workspace.
+A responsive, static HTML prototype for the farmer marketplace and ECO MARKET CONNECT operations workspace.
 
 ## Open locally
 
