@@ -1,4 +1,4 @@
-const CACHE_NAME = 'gdfa-shell-v33';
+const CACHE_NAME = 'gdfa-shell-v34';
 const APP_SHELL = [
   './',
   './index.html',
@@ -7,6 +7,7 @@ const APP_SHELL = [
   './app.js?v=86',
   './pwa-icon.svg',
   './green-divert-africa-logo.png',
+  './eco-market-logo.png',
   './agriculture-svgrepo-com.svg',
   './bell-ui-notification-svgrepo-com.svg',
   './couple-of-half-oranges-svgrepo-com.svg',

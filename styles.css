@@ -526,6 +526,9 @@ img.symbol.asset-verified,img.symbol.asset-verified_user{filter:brightness(0) sa
 .brand-lockup{position:relative;z-index:1;display:flex;align-items:center;gap:14px;color:#fff}
 .brand-emblem{position:relative;flex:none;width:88px;height:88px;overflow:hidden;border-radius:50%;background:#dff4c7;border:1px solid #ffffff52;box-shadow:0 12px 32px #052f1a38}
 .brand-emblem img{position:absolute;top:0;left:50%;width:120%;height:auto;max-width:none;transform:translateX(-50%);filter:drop-shadow(0 3px 8px #053a1d36)}
+.brand-emblem{width:clamp(150px,22vw,260px);height:auto;aspect-ratio:1.5;overflow:visible;border:0;border-radius:0;background:transparent;box-shadow:none}
+.brand-emblem img{position:static;width:100%;height:100%;object-fit:contain;transform:none;filter:none}
+.brand-lockup.auth{gap:0}
 .brand-lockup-name{display:grid;gap:2px;text-align:left;text-transform:uppercase;letter-spacing:.055em;line-height:1.05}
 .brand-lockup-name strong{display:block;color:#fff!important;visibility:visible;opacity:1;font:800 clamp(20px,3vw,30px)/1.05 Manrope,sans-serif}
 .brand-lockup-name b{font:800 15px/1.1 Manrope,sans-serif;color:#d9f4a6;letter-spacing:.2em}
