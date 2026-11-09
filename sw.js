@@ -1,9 +1,9 @@
-const CACHE_NAME = 'gdfa-shell-v75';
+const CACHE_NAME = 'gdfa-shell-v77';
 const APP_SHELL = [
   './',
   './index.html',
   './manifest.webmanifest',
-  './styles.css?v=79',
+  './styles.css?v=81',
   './app.js?v=110',
   './pwa-icon.svg',
   './green-divert-africa-logo.png',
